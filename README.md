@@ -10,7 +10,7 @@ Match history includes, match id, hero used, match result, match date and match 
 
 All of the data are stored in a SQLite database, using python to populate database entries.
 
-Modules used pandas, xmltree, beautifulsoup, sqlite3...
+Modules used pandas, xmltree, beautifulsoup, sqlite3, regular expression...
 
 The input SteamID can be accessed by logging in to the steam website or checking your profile on your steam desktop app.
 
